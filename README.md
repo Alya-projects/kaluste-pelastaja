@@ -1,7 +1,7 @@
 # Kaluste-pelastaja
 Huonekalun tunnistus
 
-[Linkki sovelluksen repoon](https://github.com/orgs/team-alya/repositories)
+[Linkki oraganisaation repoon](https://github.com/orgs/team-alya/repositories)
 
 ## Repositoriot
 
