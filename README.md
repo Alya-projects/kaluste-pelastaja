@@ -6,4 +6,4 @@ Huonekalun tunnistus
 ## Repositoriot
 
 - **[kaluste-pelastaja-backend](https://github.com/team-alya/kaluste-backend-25K)**
-- **[kaluste-pelastaja-frontend]("https://github.com/team-alya/kaluste-frontend-25K")**
+- **[kaluste-pelastaja-frontend](https://github.com/team-alya/kaluste-frontend-25K)**
